@@ -1,4 +1,4 @@
-# Indian_language_translator
+# language_translator
 
 Using Streamlit, I made this web application.
 
